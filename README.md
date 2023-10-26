@@ -21,8 +21,8 @@ Effective Sales Methods:
 3. Determine the most effective sales method in generating sales and compare the performance of different sales channels.
 # Regional Sales Analysis
 1. Explore how sales data varies by region, state, and city to identify potential areas for improvement.
-# Top Performing Cities by Profit:
-Identify the top 5 performing cities based on profit and gain insights into their sales strategies.
+# Top Performing States by Profit:
+Identify the top 5 performing States based on profit and gain insights into their sales strategies.
 Detailed Product Categories Page with Drill-through Filtering:
 Create a detailed page focusing on product categories and enable drill-through filtering to allow users to view specific information about selected categories.
 # Dashboard
